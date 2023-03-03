@@ -78,19 +78,16 @@ define(['./workbox-148cb7e5'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/AboutView-375c2f24.js",
+    "url": "assets/AboutView-0a88411a.js",
     "revision": null
   }, {
     "url": "assets/AboutView-4d995ba2.css",
     "revision": null
   }, {
-    "url": "assets/index-86987504.css",
+    "url": "assets/index-5da63856.css",
     "revision": null
   }, {
-    "url": "assets/index-c37a416b.js",
-    "revision": null
-  }, {
-    "url": "assets/logo-93bdda97.png",
+    "url": "assets/index-b99dd169.js",
     "revision": null
   }, {
     "url": "favicon-32x32.png",
@@ -106,7 +103,7 @@ define(['./workbox-148cb7e5'], (function (workbox) { 'use strict';
     "revision": "0925993d8a087cfef3c23362e2e6e0df"
   }, {
     "url": "index.html",
-    "revision": "2e17689c01e5ce0d2fef15803816b910"
+    "revision": "a7c9ac1f9b512452d9eb778572800c5d"
   }, {
     "url": "logo.svg",
     "revision": "cf527b5ce09118bda672763c81c631dc"
