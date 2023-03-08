@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as t,a as e}from"./index-9287de21.js";const c={},n={class:"about"},a=e("h3",{style:{"font-weight":"bold"}},"Sondeos",-1),_=e("p",null,"Más de 20 años brindando soluciones creativas para la integración de servicios de tecnología y telecomunicaciones.",-1),i=[a,_];function d(r,l){return s(),t("div",n,i)}const f=o(c,[["render",d]]);export{f as default};
